@@ -24,7 +24,7 @@ h1 {
     color: #d9dcd6;
 }
 
-header div {
+div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,12 @@ header div {
     font-size: 20px;
 }
 
-header div ul li {
+ul li{
     display: inline-block;
     margin-left: 25px;
     list-style-type: none;
 }
+
 a {
     color: #ffffff;
     text-decoration: none;
